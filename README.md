@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shruti Rawat</h1>
+<h3 align="center">A passionate learner from India</h3>
 
-<!--
-**Shrutirawat148/Shrutirawat148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="fun" width="400" src="![image](https://github.com/Shrutirawat148/Shrutirawat148/assets/140155229/af5fb70c-0c0c-40b7-bfb8-dbf2f631f0df)
+">
+- 📫 How to reach me **shrutirawat148@gmail.com**
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **I love to read and a fan of Omniscient Reader's Viewpoint**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shruti_rawat14_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shruti_rawat14_8" height="30" width="40" /></a>
+</p>
