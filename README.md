@@ -1,3 +1,4 @@
+![logo](https://github.com/Shrutirawat148/Shrutirawat148/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Shruti Rawat</h1>
 <h3 align="center">A passionate learner from India</h3>
 
